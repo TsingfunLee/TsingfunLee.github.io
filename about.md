@@ -3,5 +3,5 @@ layout: page
 title: About
 permalink: /about/
 ---
+我是一名前端工程师。业余爱好写作、画画。
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
