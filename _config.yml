@@ -16,4 +16,4 @@ twitter_username: TsingfunLee
 github_username:  TsingfunLee
 
 # Build settings
-markdown: kramdown
+markdown: kramdown:input:GFM
