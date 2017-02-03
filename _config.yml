@@ -17,3 +17,5 @@ github_username:  TsingfunLee
 
 # Build settings
 markdown: kramdown
+kramdown: 
+    input: GFM
