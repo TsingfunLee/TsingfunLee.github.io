@@ -7,6 +7,8 @@ permalink: /about/
 我还有一个爱好是画画，最喜欢的绘画类型是水彩，偶尔我也会上传一些自己的拙作。     
 如果你也有相同的爱好，欢迎和我联系，给我发邮件。      
 
-I'm a web frontend engineer.My favorite things are reading and wrighting,especially Classical Chinese Poetry.I'm lucky to be acquainted with someone who have the same hobbies with me.
+I'm a web frontend engineer. My favorite things are reading and wrighting,especially Classical Chinese Poetry. I'm lucky to be acquainted with someone who have the same hobbies with me. During the duvenile period,I often writed some campus loving stories and ancient loving stories. Now I am not so Chunibyo(Fourteen sick 中二),not fond of these skin-deep things,but rather preferring prose essay and informal essay and the like.
+My another hobby is painting.My favorite is watercolour painting.Sometimes I would upload my works to social websites or this blog.
+If you have the same hobbies, welcome to contact with me, email me.
 
 
