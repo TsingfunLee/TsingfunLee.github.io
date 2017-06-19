@@ -12,8 +12,8 @@ email: liluodaye@gmail.com
 description:  欢迎来到我的博客。<br>我叫池月，是一枚前端工程师。如果你意外地来到此地，我很高兴你能在此逗留片刻。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tsingfunlee.github.io" # the base hostname & protocol for your site
-twitter_username: TsingfunLee
-github_username:  TsingfunLee
+twitter_username: @TsingfunLee
+github_username:  @TsingfunLee
 
 # Build settings
 markdown: kramdown
