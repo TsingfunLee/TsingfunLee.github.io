@@ -23,12 +23,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tsingfunlee.github.io" # the base hostname & protocol for your site
 github_username:    TsingfunLee
 weibo_username:     tsingfunlee
-lofter:             chiyuepuzi
-zhihu:              TsingfunLee
-douban:             82845443
+lofter_username:    chiyuepuzi
+zhihu_username:     TsingfunLee
+douban_username:    82845443
 instagram_username: 
 twitter_username:   Tsingfun
-bokeyuan:           -867259206
+bokeyuan_username:  -867259206
 
 # Build settings
 markdown: kramdown
