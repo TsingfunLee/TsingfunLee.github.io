@@ -13,17 +13,22 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@domain.com
+title: 池映月
+email: liluodaye@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  池月的独立博客。池月的个人博客。池月的自留地。
+intro: > 
+  池月这个名字的意思是池中倒映的月亮。镜花水月，是虚幻的，也就是另一个世界的我，是我的倒影。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tsingfunlee.github.io" # the base hostname & protocol for your site
-github_username:    jekyll
-instagram_username: jekyllrb
-twitter_username:   jekyllrb
+github_username:    TsingfunLee
+weibo_username:     tsingfunlee
+lofter:             chiyuepuzi
+zhihu:              TsingfunLee
+douban:             82845443
+instagram_username: 
+twitter_username:   Tsingfun
+bokeyuan:           -867259206
 
 # Build settings
 markdown: kramdown
